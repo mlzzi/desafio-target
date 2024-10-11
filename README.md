@@ -29,7 +29,7 @@ Este desafio requer um programa que identifique a presença da letra 'a' (maiús
 
 **Importante:** A string pode ser fornecida pelo usuário ou previamente definida no código.
 
-### [Ver solução em VerificaLetraA.java](./java/org/example/solucoes/VerificaLetraA.java)
+### [Ver solução em VerificaLetraA.java](https://github.com/mlzzi/desafio-target/blob/master/src/main/java/org/example/solucoes/VerificaLetraA.java)
 
 ---
 
@@ -38,7 +38,7 @@ Este desafio requer um programa que identifique a presença da letra 'a' (maiús
 
 ### Resposta: 77
 
-### [Ver solução em QualASoma.java](./java/org/example/solucoes/QualASoma.java)
+### [Ver solução em QualASoma.java](https://github.com/mlzzi/desafio-target/blob/master/src/main/java/org/example/solucoes/QualASoma.java)
 
 ---
 
