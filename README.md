@@ -2,6 +2,7 @@
 
 ## Índice
 
+0. [Códigos das Soluções](#1-códigos-das-soluções)
 1. [Verificação de Número na Sequência de Fibonacci](#1-verificação-de-número-na-sequência-de-fibonacci)
 2. [Verificação da Letra 'A' em uma String](#2-verificação-da-letra-a-em-uma-string)
 3. [Cálculo da Soma](#3-cálculo-da-soma)
@@ -10,6 +11,10 @@
 6. [Estrutura do Projeto Java](#6-estrutura-do-projeto-java)
 
 ---
+
+## 0. As execuções dos códigos foram feitos no arquivo Main.java
+
+### [Ver soluções em Main.java](https://github.com/mlzzi/desafio-target/blob/master/src/main/java/org/example/Main.java))
 
 ## 1. Verificação de Número na Sequência de Fibonacci
 
