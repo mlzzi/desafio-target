@@ -12,9 +12,10 @@
 
 ---
 
-## 0. As execuções dos códigos foram feitos no arquivo Main.java
+## 0. Códigos das Soluções
+As execuções dos códigos foram feitos no arquivo Main.java
 
-### [Ver soluções em Main.java](https://github.com/mlzzi/desafio-target/blob/master/src/main/java/org/example/Main.java))
+### [Ver soluções em Main.java](https://github.com/mlzzi/desafio-target/blob/master/src/main/java/org/example/Main.java)
 
 ## 1. Verificação de Número na Sequência de Fibonacci
 
