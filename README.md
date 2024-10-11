@@ -18,7 +18,7 @@ Neste problema, você deve implementar um programa que calcula a sequência de F
 
 **Importante:** O número pode ser informado pelo usuário ou previamente definido no código.
 
-### [Ver solução em Fibonacci.java](./java/org/example/solucoes/Fibonacci.java)
+### [Ver solução em Fibonacci.java](https://github.com/mlzzi/desafio-target/blob/master/src/main/java/org/example/solucoes/Fibonacci.java)
 
 ---
 
